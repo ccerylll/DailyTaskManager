@@ -1,12 +1,12 @@
-Introduction
+## Introduction
 This project is a simple task manager using arrays, stacks, and linked lists to track tasks and their completion status.
 
-Environment Setup
+## Environment Setup
 JDK 23.0.2
 VS Code (lightweight for my system)
 Git for version control
 
-Challenges
+## Challenges
 Index Out of Bounds & Input Errors
 Had issues with invalid indexes and input mismatches. Fixed it by checking index ranges and reusing a method to validate integer inputs.
 
